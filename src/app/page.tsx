@@ -22,7 +22,7 @@ const Page = () => {
       Write better with Quillbot.
     </h1>
     <p className="mt-5 max-w-prose text-zinc-700 sm:text-lg">
-      It's simple. Put in your text, hit the button, and let QuillBot paraphrase it. QuillBot will then paraphrase the content while maintaining the original meaning.
+      It&apos;s simple. Put in your text, hit the button, and let QuillBot paraphrase it. QuillBot will then paraphrase the content while maintaining the original meaning.
     </p>
 
     <Link className={buttonVariants({
